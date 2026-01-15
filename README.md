@@ -1,4 +1,4 @@
-# About the E-commerce Purchases Analysis
+# About the User Purchase Behaviour - EDA
 **Author**: Federica Gianoglio 
 
 **GitHub**: https://github.com/federica-gianoglio/user-purchase-behaviour-eda/ 
