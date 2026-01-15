@@ -1,7 +1,7 @@
 # About the E-commerce Purchases Analysis
 **Author**: Federica Gianoglio 
 
-**GitHub**: 
+**GitHub**: https://github.com/federica-gianoglio/user-purchase-behaviour-eda/ 
 
 **Description**: Exploratory analysis of user purchases to assess the impact of demographics and product categories on spending behaviour.
 
